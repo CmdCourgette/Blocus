@@ -1,4 +1,4 @@
-# Blocus
+# SameGame
 By **Théo Chollet** and **Tomy Da Rocha**.
 
 ![Blocus](img/blocus_ingame.png)
@@ -33,9 +33,9 @@ If one of the players is blocked, the victory is given to the other player.
 
 A **pop-up** indicates victory :
 
-| ![Grid size](img/results_time.png) |
+| ![Waiting for results](img/results_time.png) |
 | :--: |
-| <b>Grid size</b>|
+| <b>Waiting for results</b>|
 
 ## Context
 This project is the first one that I realized in the domain of programming. I was in a group with my classmate Tomy Da Rocha.
