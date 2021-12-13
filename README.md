@@ -1,4 +1,4 @@
-# SameGame
+# Blocus
 By **Théo Chollet** and **Tomy Da Rocha**.
 
 ![Blocus](img/blocus_ingame.png)
